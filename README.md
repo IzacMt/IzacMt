@@ -4,9 +4,11 @@
 
 
 ``` python
-def aboutMe():
-  lenguages: JS, python, CSS, React, HTML
-  idioms: English
+aboutMe = {
+  'FullName':'Izac Martinez',
+  'Lenguages': ['JS','CSS','Python','React','Html'],
+  'Idioms':'Intermediate-English'
+}
   
 
 ```
